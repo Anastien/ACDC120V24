@@ -1,8 +1,8 @@
 {
   "board": {
     "active_layer": 0,
-    "active_layer_preset": "All Layers",
-    "auto_track_width": true,
+    "active_layer_preset": "",
+    "auto_track_width": false,
     "hidden_netclasses": [],
     "hidden_nets": [],
     "high_contrast_mode": 0,
@@ -19,7 +19,7 @@
       "footprints": true,
       "graphics": true,
       "keepouts": true,
-      "lockedItems": false,
+      "lockedItems": true,
       "otherItems": true,
       "pads": true,
       "text": true,
@@ -64,8 +64,14 @@
       39,
       40
     ],
-    "visible_layers": "fffffff_ffffffff",
+    "visible_layers": "00090a0_80000001",
     "zone_display_mode": 0
+  },
+  "git": {
+    "repo_password": "",
+    "repo_type": "",
+    "repo_username": "",
+    "ssh_key": ""
   },
   "meta": {
     "filename": "ACDC150V24.kicad_prl",
@@ -74,7 +80,7 @@
   "project": {
     "files": [
       {
-        "name": "ACDC150V24.kicad_sch",
+        "name": "ACDC150V24.kicad_pcb",
         "open": false,
         "window": {
           "display": 1,
@@ -86,7 +92,7 @@
         }
       },
       {
-        "name": "ACDC150V24.kicad_pcb",
+        "name": "ACDC150V24.kicad_sch",
         "open": false,
         "window": {
           "display": 1,
