@@ -1,0 +1,2 @@
+* Flyback Snubber Check.
+* Output Diode Check.

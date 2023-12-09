@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.0
+          "min_clearance": 0.508
         }
       },
       "diff_pair_dimensions": [
@@ -58,26 +58,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        "clearance|107662181|74039061|ab0fb2c8-17b8-4657-abea-4652f0dabe01|e816e6c6-ec44-412e-b893-ea9092884641",
-        "clearance|110900000|76991125|0fed6ad6-9e35-4fd7-adfb-725c3bac3048|c58b21e9-1340-419f-8383-85ded674e31c",
-        "clearance|110900000|78450000|0fed6ad6-9e35-4fd7-adfb-725c3bac3048|25cf2924-243d-4182-8060-bf852d07a487",
-        "items_not_allowed|67095000|124845000|df0890bf-ddad-4b27-adbe-8797cc301621|00000000-0000-0000-0000-000000000000",
-        "items_not_allowed|82998099|105867562|832e8782-c903-43b7-8582-89a4d2ced93b|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|101612500|130437500|e7ead61a-680a-47a6-ba4f-21ad2876b0d2|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|107200000|74100000|c2ef4cfa-929e-413a-b35d-df9c10b0d451|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|108917500|123400000|5cc04aee-7388-4c02-be5c-df6d81a85095|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|111900000|78000000|c94dedc9-ec69-42f3-a101-194683bfeea9|00000000-0000-0000-0000-000000000000",
-        "lib_footprint_mismatch|96142500|137350000|c3e2b63e-dee7-40f5-824f-03c364e66f02|00000000-0000-0000-0000-000000000000",
-        "silk_edge_clearance|100852121|108335000|bc5696c4-4b85-468e-8811-5d4dafa010e7|a9ae9382-37fc-47c1-86b8-abd8af3eea22",
-        "silk_edge_clearance|100981840|100595000|6b8635a1-4f0d-42b8-b869-39246f84ad98|7bb10282-11ca-4e63-ae89-37547cd3e070",
-        "silk_edge_clearance|102876728|108330853|b3f88706-2d89-4cd2-90cd-cd248a00f3fb|c5e4e80f-d8d0-4f15-8219-79c248cade26",
-        "silk_edge_clearance|102893464|108128583|b3f88706-2d89-4cd2-90cd-cd248a00f3fb|6606d2ff-2d55-4813-98a8-a2b6b59ef22b",
-        "silk_edge_clearance|32900000|35500000|7ceb139a-9307-4888-a28c-7346f6b3b0f9|4d568d35-5293-4086-8fc7-dd5e96f4a6c7",
-        "silk_edge_clearance|53025000|142853541|5ec70472-998d-4779-a31d-8b4694faf296|1dea607c-fa05-48c7-a64e-1efc15948a6d",
-        "silk_edge_clearance|70275000|142853541|5ec70472-998d-4779-a31d-8b4694faf296|a7354ab6-d8b3-4116-8904-e0dbc05037b4",
-        "silk_edge_clearance|70870000|111900000|5e32614f-df36-4397-b663-70a3b4d7ff1a|8bf19933-2f00-4f95-a733-c6d32d6fba6c"
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -605,6 +586,7 @@
       "Net-(U1-OVP)": "24V",
       "Net-(U1-SS)": "24V",
       "Net-(U1-STATUS)": "24V",
+      "Net-(U1-VDD)": "24V",
       "Net-(U3-K)": "24V",
       "Net-(U3-REF)": "24V",
       "OUT_GND": "24V",
@@ -617,7 +599,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "production/New folder/",
+      "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "ACDC_60_24.step",
