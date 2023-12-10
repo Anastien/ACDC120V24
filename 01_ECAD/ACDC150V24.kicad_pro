@@ -219,6 +219,13 @@
       ],
       "zones_allow_external_fillets": true
     },
+    "ipc2581": {
+      "dist": "",
+      "distpn": "",
+      "internal_id": "",
+      "mfg": "",
+      "mpn": ""
+    },
     "layer_presets": [],
     "viewports": []
   },
@@ -524,7 +531,41 @@
       "version": 3
     },
     "net_colors": null,
-    "netclass_assignments": null,
+    "netclass_assignments": {
+      "/PS/24V_O": "24V",
+      "/PS/AC_L": "AC",
+      "/PS/AC_L_SW": "AC",
+      "/PS/AC_N": "AC",
+      "/PS/AC_R_I_1": "AC",
+      "/PS/AC_R_I_2": "AC",
+      "/PS/AC_R_O": "DC_RECT",
+      "/PS/AUX": "24V",
+      "/PS/MOS_S": "24V",
+      "/PS/OPT_C": "24V",
+      "/PS/TR_GAT": "24V",
+      "/PS/TR_SW": "DC_RECT",
+      "EARTH": "AC",
+      "GND_DC_P": "24V",
+      "Net-(C11-Pad1)": "AC",
+      "Net-(C14-Pad1)": "24V",
+      "Net-(D1-A)": "24V",
+      "Net-(D2-A)": "24V",
+      "Net-(D4-K)": "24V",
+      "Net-(D6-K)": "DC_RECT",
+      "Net-(D7A-A)": "24V",
+      "Net-(F1-Pad2)": "AC",
+      "Net-(Q1-S)": "24V",
+      "Net-(R11-Pad1)": "24V",
+      "Net-(R5-Pad1)": "DC_RECT",
+      "Net-(R6-Pad1)": "DC_RECT",
+      "Net-(U1-OVP)": "24V",
+      "Net-(U1-SS)": "24V",
+      "Net-(U1-VDD)": "24V",
+      "Net-(U3-K)": "24V",
+      "Net-(U3-REF)": "24V",
+      "OUT_GND": "24V",
+      "unconnected-(U1-STATUS-Pad8)": "24V"
+    },
     "netclass_patterns": []
   },
   "pcbnew": {
@@ -535,7 +576,7 @@
       "plot": "production/",
       "pos_files": "",
       "specctra_dsn": "",
-      "step": "ACDC_60_24.step",
+      "step": "ACDC_150_24.step",
       "svg": "",
       "vrml": "ACDC_60_24.wrl"
     },
@@ -643,7 +684,7 @@
   "sheets": [
     [
       "cd1e8715-6903-46d3-9212-b98a2f6a8e59",
-      ""
+      "Root"
     ],
     [
       "abfea248-d9c7-4fc9-91c1-0206f1d1adf1",

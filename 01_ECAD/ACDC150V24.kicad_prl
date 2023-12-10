@@ -81,7 +81,19 @@
     "files": [
       {
         "name": "ACDC150V24.kicad_sch",
-        "open": true,
+        "open": false,
+        "window": {
+          "display": 0,
+          "maximized": true,
+          "pos_x": -4488,
+          "pos_y": -8,
+          "size_x": 1936,
+          "size_y": 1186
+        }
+      },
+      {
+        "name": "ACDC150V24.kicad_pcb",
+        "open": false,
         "window": {
           "display": 2,
           "maximized": true,
