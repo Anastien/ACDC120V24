@@ -64,7 +64,7 @@
       39,
       40
     ],
-    "visible_layers": "00090a0_80000001",
+    "visible_layers": "01c91a0_80000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -81,26 +81,14 @@
     "files": [
       {
         "name": "ACDC150V24.kicad_sch",
-        "open": false,
+        "open": true,
         "window": {
-          "display": 1,
+          "display": 0,
           "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1424
-        }
-      },
-      {
-        "name": "ACDC150V24.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 1,
-          "maximized": true,
-          "pos_x": -8,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1424
+          "pos_x": -9,
+          "pos_y": -9,
+          "size_x": 1938,
+          "size_y": 1058
         }
       }
     ]
