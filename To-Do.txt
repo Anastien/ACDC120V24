@@ -1,2 +1,1 @@
-* Flyback Snubber Check.
-* Output Diode Check.
+* adding HV breakdown comp to pcb.
