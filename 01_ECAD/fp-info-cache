@@ -1,4 +1,4 @@
-22936581515829886
+23068852985592764
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -2267,6 +2267,13 @@ tactile switch Omron B3F right angle through hole
 0
 4
 2
+Button_Switch_THT
+SW_Slide-03_Wuerth-WS-SLTV_10x2.5x6.4_P2.54mm
+Wuerth, WS-SLTV, 450301014042, https://www.we-online.com/components/products/datasheet/450301014042.pdf
+switch single-pole double-throw SPDT würth wurth
+0
+3
+3
 Button_Switch_THT
 SW_Slide_SPDT_Angled_CK_OS102011MA1Q
 CuK miniature slide switch, OS series, SPDT, right angle, http://www.ckswitches.com/media/1428/os.pdf
@@ -10128,6 +10135,153 @@ connector Hirose FH12 horizontal
 0
 55
 54
+Connector_FFC-FPC
+Hirose_FH26-13S-0.3SHW_2Rows-13Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-13S-0.3SHW, 13 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+15
+14
+Connector_FFC-FPC
+Hirose_FH26-15S-0.3SHW_2Rows-15Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-15S-0.3SHW, 15 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+17
+16
+Connector_FFC-FPC
+Hirose_FH26-17S-0.3SHW_2Rows-17Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-17S-0.3SHW, 17 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+19
+18
+Connector_FFC-FPC
+Hirose_FH26-19S-0.3SHW_2Rows-19Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-19S-0.3SHW, 19 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+21
+20
+Connector_FFC-FPC
+Hirose_FH26-21S-0.3SHW_2Rows-21Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-21S-0.3SHW, 21 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+23
+22
+Connector_FFC-FPC
+Hirose_FH26-23S-0.3SHW_2Rows-23Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-23S-0.3SHW, 23 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+25
+24
+Connector_FFC-FPC
+Hirose_FH26-25S-0.3SHW_2Rows-25Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-25S-0.3SHW, 25 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+27
+26
+Connector_FFC-FPC
+Hirose_FH26-27S-0.3SHW_2Rows-27Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-27S-0.3SHW, 27 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+29
+28
+Connector_FFC-FPC
+Hirose_FH26-29S-0.3SHW_2Rows-29Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-29S-0.3SHW, 29 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+31
+30
+Connector_FFC-FPC
+Hirose_FH26-31S-0.3SHW_2Rows-31Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-31S-0.3SHW, 31 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+33
+32
+Connector_FFC-FPC
+Hirose_FH26-33S-0.3SHW_2Rows-33Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-33S-0.3SHW, 33 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+35
+34
+Connector_FFC-FPC
+Hirose_FH26-35S-0.3SHW_2Rows-35Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-35S-0.3SHW, 35 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+37
+36
+Connector_FFC-FPC
+Hirose_FH26-37S-0.3SHW_2Rows-37Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-37S-0.3SHW, 37 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+39
+38
+Connector_FFC-FPC
+Hirose_FH26-39S-0.3SHW_2Rows-39Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-39S-0.3SHW, 39 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+41
+40
+Connector_FFC-FPC
+Hirose_FH26-41S-0.3SHW_2Rows-41Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-41S-0.3SHW, 41 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+43
+42
+Connector_FFC-FPC
+Hirose_FH26-45S-0.3SHW_2Rows-45Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-45S-0.3SHW, 45 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+47
+46
+Connector_FFC-FPC
+Hirose_FH26-51S-0.3SHW_2Rows-51Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-51S-0.3SHW, 51 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+53
+52
+Connector_FFC-FPC
+Hirose_FH26-55S-0.3SHW_2Rows-55Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-55S-0.3SHW, 55 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+57
+56
+Connector_FFC-FPC
+Hirose_FH26-57S-0.3SHW_2Rows-57Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-57S-0.3SHW, 57 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+59
+58
+Connector_FFC-FPC
+Hirose_FH26-61S-0.3SHW_2Rows-61Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-61S-0.3SHW, 61 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+63
+62
+Connector_FFC-FPC
+Hirose_FH26-71S-0.3SHW_2Rows-71Pins-1MP_P0.60mm_Horizontal
+Hirose 0.30mm Pitch FFC/FPC, FH26-71S-0.3SHW, 71 Circuits (https://www.hirose.com/en/product/document?clcode=&productname=&series=FH26&documenttype=Catalog&lang=en&documentid=D49355_en), generated with kicad-footprint-generator
+connector Hirose  horizontal
+0
+73
+72
 Connector_FFC-FPC
 Hirose_FH41-30S-0.5SH_1x30_1MP_1SH_P0.5mm_Horizontal
 Hirose FH41, FFC/FPC connector, FH41-30S-0.5SH, 30 Pins per row (https://www.hirose.com/fr/product/document?clcode=CL0580-2218-5-05&productname=FH41-30S-0.5SH(05)&series=FH41&documenttype=2DDrawing&lang=fr&documentid=0001001704)
@@ -51653,6 +51807,13 @@ MeanWell NID60
 11
 11
 Converter_DCDC
+Converter_DCDC_MeanWell_NSD10_THT
+MeanWell NSD10 (Script generated with StandardBox.py) (https://www.meanwell.com/webapp/product/search.aspx?prod=NSD10-D)
+MeanWell NSD NSD10
+0
+6
+6
+Converter_DCDC
 Converter_DCDC_Murata_CRE1xxxxxx3C_THT
 Isolated 1W single output DC/DC, http://power.murata.com/data/power/ncl/kdc_cre1.pdf
 Isolated 1W single output DC/DC
@@ -53919,6 +54080,20 @@ http://www.diodes.com/datasheets/ap02001.pdf p.144
 Diode SOD523
 0
 2
+2
+Diode_SMD
+D_SOD-882
+SOD-882, DFN1006-2, body 1.0 x 0.6 x 0.48mm, pitch 0.65mm, https://assets.nexperia.com/documents/package-information/SOD882.pdf
+Diode SOD882 DFN1006-2
+0
+4
+2
+Diode_SMD
+D_SOD-882D
+SOD-882D, DFN1006D-2, body 1.0 x 0.6 x 0.4mm, pitch 0.65mm, https://assets.nexperia.com/documents/data-sheet/PESD5V0L1ULD.pdf
+Diode SOD882D DFN1006D-2
+0
+4
 2
 Diode_SMD
 D_SOD-923
@@ -57529,6 +57704,13 @@ Inductor_SMD
 L_Coilcraft_LPS4018
 SMD Inductor Coilcraft LPS4018 https://www.coilcraft.com/pdfs/lps4018.pdf
 L Coilcraft LPS4018
+0
+2
+2
+Inductor_SMD
+L_Coilcraft_LPS4414
+SMD Inductor Coilcraft LPS4414, https://www.coilcraft.com/getmedia/fa8805ca-b278-4819-915a-b5cf632f0239/lps4414.pdf
+L Coilcraft LPS4414
 0
 2
 2
@@ -62524,6 +62706,13 @@ LED RGB
 7
 7
 LED_SMD
+LED_RGB_Lumex_SML-LXT0805SIUGUBW
+RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.mouser.de/datasheet/2/244/SML-LXT0805SIUGUBW-1776540.pdf
+RGB LED 0805
+0
+4
+4
+LED_SMD
 LED_RGB_PLCC-6
 RGB LED PLCC-6
 RGB LED PLCC-6
@@ -62534,6 +62723,13 @@ LED_SMD
 LED_RGB_Wuerth-PLCC4_3.2x2.8mm_150141M173100
 3.2mm x 2.8mm PLCC4 LED, https://www.we-online.de/katalog/datasheet/150141M173100.pdf
 LED RGB Wurth PLCC-4 3528
+0
+4
+4
+LED_SMD
+LED_RGB_Wuerth_150080M153000
+RGB LED 0805 2.0mm x 1.3mm, orientation marker at common anode https://www.we-online.com/components/products/datasheet/150080M153000.pdf
+RGB LED 0805
 0
 4
 4
@@ -62576,6 +62772,13 @@ LED_SMD
 LED_WS2812B-2020_PLCC4_2.0x2.0mm
 2.0mm x 2.0mm Addressable RGB LED NeoPixel Nano, 12 mA, https://cdn-shop.adafruit.com/product-files/4684/4684_WS2812B-2020_V1.3_EN.pdf
 LED RGB NeoPixel Nano PLCC-4 2020
+0
+4
+4
+LED_SMD
+LED_WS2812B-Mini_PLCC4_3.5x3.5mm
+Addressable RGB LED NeoPixel Mini, 12 mA, https://web.archive.org/web/20200131233647/http://www.world-semi.com/DownLoadFile/112
+LED RGB NeoPixel Mini
 0
 4
 4
@@ -66458,14 +66661,14 @@ DFN NoLead
 6
 6
 OptoDevice
-ST_VL53L0X
-https://www.st.com/resource/en/datasheet/vl53l1x.pdf
-laser-ranging sensor
+Rohm_RPR-0720
+Rohm DFN, 6 Pin (https://fscdn.rohm.com/en/products/databook/datasheet/opto/optical_sensor/photosensor/rpr-0720-e.pdf)
+proximity sensor rohm
 0
-12
-12
+6
+6
 OptoDevice
-ST_VL53L1X
+ST_VL53L0X
 https://www.st.com/resource/en/datasheet/vl53l1x.pdf
 laser-ranging sensor
 0
@@ -67150,6 +67353,13 @@ PFC3514QM
 0
 8
 8
+PS
+SIHA6N80AE-GE3
+TO-220-3, Vertical, RM 2.54mm, see https://www.vishay.com/docs/66542/to-220-1.pdf
+TO-220-3 Vertical RM 2.54mm
+0
+3
+3
 PS
 SSR21NH-10250
 
@@ -67962,6 +68172,13 @@ BGA 8 0.5
 0
 8
 8
+Package_BGA
+Texas_DSBGA-9_1.62mmx1.58mm_Layout3x3_P0.5mm
+Texas Instruments, DSBGA, area grid, NSMD, YZF0009 pad definition, 1.62x1.58mm, 9 Ball, 3x3 Layout, 0.5mm Pitch, https://www.ti.com/lit/ml/mxbg027n/mxbg027n.pdf
+BGA 9 0.5
+0
+9
+9
 Package_BGA
 Texas_DSBGA-9_1.4715x1.4715mm_Layout3x3_P0.5mm
 Texas Instruments, DSBGA, 1.4715x1.4715mm, 9 bump 3x3 array, NSMD pad definition (http://www.ti.com/lit/ds/symlink/lm4990.pdf, http://www.ti.com/lit/an/snva009ag/snva009ag.pdf)
@@ -68912,7 +69129,7 @@ LFCSP-VQ-48-1EP_7x7mm_P0.5mm
 LFCSP VQ, 48 pin, exposed pad, 7x7mm body (http://www.analog.com/media/en/technical-documentation/data-sheets/AD7951.pdf, http://www.analog.com/en/design-center/packaging-quality-symbols-footprints/symbols-and-footprints/AD7951.html)
 LFCSP 48
 0
-49
+65
 49
 Package_CSP
 LFCSP-WD-8-1EP_3x3mm_P0.65mm_EP1.6x2.44mm
@@ -69552,6 +69769,13 @@ QFN 0.95
 6
 5
 Package_DFN_QFN
+AO_AOZ666xDI_DFN-8-1EP_3x3mm_P0.65mm_EP1.25x2.7mm
+AO AOZ666xDI DFN, 8 Pin (https://aosmd.com/res/data_sheets/AOZ6663DI-01.pdf#page=15), generated with kicad-footprint-generator ipc_noLead_generator.py
+AO DFN NoLead
+0
+13
+9
+Package_DFN_QFN
 AO_DFN-8-1EP_5.55x5.2mm_P1.27mm_EP4.12x4.6mm
 DD Package; 8-Lead Plastic DFN (5.55mm x 5.2mm), Pin 5-8 connected to EP (http://www.aosmd.com/res/packaging_information/DFN5x6_8L_EP1_P.pdf)
 dfn 
@@ -70008,7 +70232,7 @@ DFN 0.5
 15
 Package_DFN_QFN
 DFN-14_1.35x3.5mm_P0.5mm
-DFN, 14 Pin (https://m.littelfuse.com/~/media/electronics/datasheets/tvs_diode_arrays/littelfuse_tvs_diode_array_sp3012_datasheet.pdf.pdf#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py
+DFN, 14 Pin (https://m.littelfuse.com/media?resourcetype=datasheets&itemid=9fbe09c9-efee-4022-a889-ca0005cd9b07&filename=littelfuse-tvs-diode-array-sp3012-datasheet#page=5), generated with kicad-footprint-generator ipc_noLead_generator.py
 DFN NoLead
 0
 14
@@ -70482,6 +70706,13 @@ dfn udfn dual flat
 0
 8
 8
+Package_DFN_QFN
+OnSemi_UDFN-16-1EP_1.35x3.3mm_P0.4mm_EP0.4x2.8mm
+OnSemi  UDFN, 16 Pin (https://www.onsemi.com/pdf/datasheet/cm1624-d.pdf#page=7), generated with kicad-footprint-generator ipc_noLead_generator.py
+OnSemi UDFN NoLead
+0
+20
+17
 Package_DFN_QFN
 OnSemi_VCT-28_3.5x3.5mm_P0.4mm
 OnSemi  VCT, 28 Pin (http://www.onsemi.com/pub/Collateral/601AE.PDF), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -72149,6 +72380,20 @@ DFN 0.5 Qorvo 2x2mm
 9
 9
 Package_DFN_QFN
+Qorvo_TQFN66-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm
+Qorvo  TQFN66, 48 Pin (https://www.qorvo.com/products/d/da006847), generated with kicad-footprint-generator ipc_noLead_generator.py
+Qorvo TQFN66 NoLead
+0
+58
+49
+Package_DFN_QFN
+Qorvo_TQFN66-48-1EP_6x6mm_P0.4mm_EP4.2x4.2mm_ThermalVias
+Qorvo  TQFN66, 48 Pin (https://www.qorvo.com/products/d/da006847), generated with kicad-footprint-generator ipc_noLead_generator.py
+Qorvo TQFN66 NoLead
+0
+75
+49
+Package_DFN_QFN
 ROHM_DFN0604-3
 DFN package size 0604 3 pins
 DFN package size 0604 3 pins
@@ -73122,6 +73367,20 @@ Texas X2QFN NoLead
 12
 12
 Package_DFN_QFN
+Texas_X2QFN-RUE-12_1.4x2mm_P0.4mm
+Texas  X2QFN-RUE, 12 Pin (https://www.ti.com/lit/ml/mpqf214b/mpqf214b.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
+Texas X2QFN-RUE NoLead
+0
+12
+12
+Package_DFN_QFN
+UDC-QFN-20-4EP_3x4mm_P0.5mm_EP0.41x0.25mm
+UDC QFN, 20 Pin, Exposed Pad Variation AB (https://www.analog.com/media/en/package-pcb-resources/package/pkg_pdf/ltc-legacy-qfn/05081536_B_UDC20(AB).pdf), modifed from generated QFN-20-1EP_3x4mm_P0.5
+QFN NoLead
+0
+24
+24
+Package_DFN_QFN
 UDFN-4-1EP_1x1mm_P0.65mm_EP0.48x0.48mm
 UDFN-4_1x1mm_P0.65mm, http://ww1.microchip.com/downloads/en/DeviceDoc/MIC550x-300mA-Single-Output-LDO-in-Small-Packages-DS20006006A.pdf
 UDFN-4_1x1mm_P0.65mm
@@ -73457,6 +73716,20 @@ VQFN NoLead
 0
 48
 29
+Package_DFN_QFN
+VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm
+VQFN, 32 Pin (https://www.ti.com/lit/ds/symlink/tps25750.pdf#page=78), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+37
+33
+Package_DFN_QFN
+VQFN-32-1EP_4x4mm_P0.4mm_EP2.8x2.8mm_ThermalVias
+VQFN, 32 Pin (https://www.ti.com/lit/ds/symlink/tps25750.pdf#page=78), generated with kicad-footprint-generator ipc_noLead_generator.py
+VQFN NoLead
+0
+47
+33
 Package_DFN_QFN
 VQFN-32-1EP_5x5mm_P0.5mm_EP3.1x3.1mm
 VQFN, 32 Pin (http://ww1.microchip.com/downloads/en/devicedoc/atmel-9520-at42-qtouch-bsw-at42qt1110_datasheet.pdf#page=42), generated with kicad-footprint-generator ipc_noLead_generator.py
@@ -77156,14 +77429,14 @@ HTSOP SO
 Package_SO
 HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3.1mm
 HTSSOP, 14 Pin (http://www.ti.com/lit/ds/symlink/lm5161.pdf#page=34), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0014A
 0
 20
 15
 Package_SO
 HTSSOP-14-1EP_4.4x5mm_P0.65mm_EP3.4x5mm_Mask3x3.1mm_ThermalVias
 HTSSOP, 14 Pin (http://www.ti.com/lit/ds/symlink/lm5161.pdf#page=34), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0014A
 0
 36
 15
@@ -77205,14 +77478,14 @@ HTSSOP SO
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.74x3.86mm
 HTSSOP, 20 Pin (https://www.analog.com/media/en/technical-documentation/data-sheets/4011fb.pdf#page=24), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO Analog-FE-CB
 0
 23
 21
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP2.85x4mm
-HTSSOP, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF U20E-1), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP, 20 Pin (https://pdfserv.maximintegrated.com/package_dwgs/21-0108.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO Maxim-U20E-1
 0
 23
 21
@@ -77226,21 +77499,21 @@ HTSSOP 0.65
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.4x3.7mm
 HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/bq24006.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP/R-PDSO-G20
 0
 24
 21
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm
 HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0020U
 0
 26
 21
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.75x3.43mm_ThermalVias
 HTSSOP, 20 Pin (http://www.ti.com/lit/ds/symlink/tlc5971.pdf#page=37&zoom=160,-90,3), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0020U
 0
 42
 21
@@ -77254,14 +77527,14 @@ HTSSOP SO
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm
 HTSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/tps2663.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0020T
 0
 23
 21
 Package_SO
 HTSSOP-20-1EP_4.4x6.5mm_P0.65mm_EP3.4x6.5mm_Mask2.96x2.96mm_ThermalVias
 HTSSOP, 20 Pin (https://www.ti.com/lit/ds/symlink/tps2663.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0020T
 0
 42
 21
@@ -77282,28 +77555,28 @@ HTSSOP SO
 Package_SO
 HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x2.98mm
 HTSSOP, 24 Pin (https://www.ti.com/lit/ds/symlink/tlc5949.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0024P
 0
 27
 25
 Package_SO
 HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x2.98mm_ThermalVias
 HTSSOP, 24 Pin (https://www.ti.com/lit/ds/symlink/tlc5949.pdf#page=49), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP0024P
 0
 49
 25
 Package_SO
 HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm
 HTSSOP, 24 Pin (http://www.ti.com/lit/ds/symlink/tps703.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP/R-PDSO-G24
 0
 28
 25
 Package_SO
 HTSSOP-24-1EP_4.4x7.8mm_P0.65mm_EP3.4x7.8mm_Mask2.4x4.68mm_ThermalVias
 HTSSOP, 24 Pin (http://www.ti.com/lit/ds/symlink/tps703.pdf), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-PWP/R-PDSO-G24
 0
 47
 25
@@ -77379,22 +77652,36 @@ SSOP 0.65 PowerPAD
 33
 Package_SO
 HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm
-HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=47&zoom=140,-67,15), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=46), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO TI-DAP/R-PDSO-G38
 0
 46
 39
 Package_SO
 HTSSOP-38-1EP_6.1x12.5mm_P0.65mm_EP5.2x12.5mm_Mask3.39x6.35mm_ThermalVias
-HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=47&zoom=140,-67,15), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP, 38 Pin (http://www.ti.com/lit/ds/symlink/tlc5951.pdf#page=46), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO TI-DAP/R-PDSO-G38
 0
 87
 39
 Package_SO
+HTSSOP-44-1EP_6.1x14mm_P0.635mm_EP5.2x14mm_Mask4.31x8.26mm
+HTSSOP, 44 Pin (http://www.ti.com/lit/pdf/pptd165), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO TI-DDW0044B
+0
+61
+45
+Package_SO
+HTSSOP-44-1EP_6.1x14mm_P0.635mm_EP5.2x14mm_Mask4.31x8.26mm_ThermalVias
+HTSSOP, 44 Pin (http://www.ti.com/lit/pdf/pptd165), generated with kicad-footprint-generator ipc_gullwing_generator.py
+HTSSOP SO TI-DDW0044B
+0
+118
+45
+Package_SO
 HTSSOP-44_6.1x14mm_P0.635mm_TopEP4.14x7.01mm
 HTSSOP, 44 Pin (http://www.ti.com/lit/ds/symlink/tpa3251.pdf#page=38), generated with kicad-footprint-generator ipc_gullwing_generator.py
-HTSSOP SO
+HTSSOP SO TI-DDV0044D
 0
 44
 44
@@ -77776,6 +78063,20 @@ MSOP SO
 0
 16
 16
+Package_SO
+NXP_HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.2x3.4mm
+HTSSOP, 28 Pin (https://www.nxp.com/docs/en/package-information/SOT1172-3.pdf)
+HTSSOP SO
+0
+41
+29
+Package_SO
+NXP_HTSSOP-28-1EP_4.4x9.7mm_P0.65mm_EP2.2x3.4mm_ThermalVias
+HTSSOP, 28 Pin (https://www.nxp.com/docs/en/package-information/SOT1172-3.pdf)
+HTSSOP SO
+0
+50
+29
 Package_SO
 ONSemi_SO-8FL_488AA
 ON Semi DFN5 5x6mm 1.27P SO-8FL CASE 488A https://www.onsemi.com/pub/Collateral/488AA.PDF
@@ -78161,6 +78462,13 @@ SOIC SO
 0
 8
 8
+Package_SO
+SOIC-10_3.9x4.9mm_P1mm
+SOIC, 10 Pin (https://www.onsemi.com/pub/Collateral/751BQ.PDF), generated with kicad-footprint-generator ipc_gullwing_generator.py
+SOIC SO SOIC-10 NB
+0
+10
+10
 Package_SO
 SOIC-14-16_3.9x9.9mm_P1.27mm
 SOIC, 16 Pin package with pin 2 and 13 removed for voltage clearance  (UCC256301, https://www.ti.com/lit/ds/symlink/ucc256301.pdf)
@@ -79401,13 +79709,6 @@ HSOIC SO
 23
 9
 Package_SO
-Texas_R-PDSO-N5
-Plastic Small outline http://www.ti.com/lit/ml/mpds158c/mpds158c.pdf
-SOT23 R-PDSO-N5
-0
-5
-5
-Package_SO
 VSO-40_7.6x15.4mm_P0.762mm
 VSO40: plastic very small outline package; 40 leads (see NXP SSOP-TSSOP-VSO-REFLOW.pdf and sot158-1_po.pdf)
 SSOP 0.762
@@ -79825,7 +80126,7 @@ VSON-8-1EP_3x3mm_P0.65mm_EP1.65x2.4mm_ThermalVias
 VSON, 8 Pin (https://www.ti.com/lit/ds/symlink/tlv767-q1.pdf#page=31), generated with kicad-footprint-generator ipc_noLead_generator.py
 VSON NoLead
 0
-16
+17
 9
 Package_SON
 VSON-8_1.5x2mm_P0.5mm
@@ -84378,6 +84679,13 @@ ESP32-S3-WROOM-1U
 62
 41
 RF_Module
+ESP32-S3-WROOM-2
+2.4 GHz Wi­-Fi and Bluetooth 5 (LE) module: https://www.espressif.com/sites/default/files/documentation/esp32-s3-wroom-2_datasheet_en.pdf
+Bluetooth WiFi Wi-Fi ESP WROOM
+0
+61
+41
+RF_Module
 ESP32-WROOM-32
 Single 2.4 GHz Wi-Fi and Bluetooth combo chip https://www.espressif.com/sites/default/files/documentation/esp32-wroom-32_datasheet_en.pdf
 Single 2.4 GHz Wi-Fi and Bluetooth combo  chip
@@ -87003,6 +87311,13 @@ Sensortech MiCS MEMS sensor
 10
 10
 Sensor
+TGS-5141
+Fixaro carbon monoxide electrochemical sensor, https://figarosensor.com/product/docs/tgs5141-p00_product%20infomation%28fusa%29_rev07.pdf
+Figaro CO sensor
+0
+3
+2
+Sensor
 Winson_GM-402B_5x5mm_P1.27mm
 Winson GM-402B QFN, 8 Pin (https://www.winsen-sensor.com/d/files/me2/mems--gm-402b--manual-v1_1.pdf), generated with kicad-footprint-generator ipc_noLead_generator.py
 Winson QFN NoLead
@@ -87058,6 +87373,13 @@ microphone MEMS I2S SPH0645LM4H Knowles
 0
 6
 6
+Sensor_Audio
+POM-2244P-C3310-2-R
+Electret Condenser microphone, Project Unlimited (PU) Audio, https://api.puiaudio.com/file/b7e03aec-9603-48da-8064-9a0e0468047c.pdf
+microphone electret
+0
+2
+2
 Sensor_Audio
 ST_HLGA-6_3.76x4.72mm_P1.65mm
 http://www.st.com/content/ccc/resource/technical/document/datasheet/group3/27/62/48/98/44/54/4d/36/DM00303211/files/DM00303211.pdf/jcr:content/translations/en.DM00303211.pdf
@@ -88249,16 +88571,16 @@ Logo RoHS
 0
 0
 Symbol
-Symbol_Attention_CopperTop_Big
-Symbol, Attention, Copper Top, Big,
-Symbol, Attention, Copper Top, Big,
+Symbol_Attention_Triangle_8x7mm_Copper
+Symbol, Attention, 8x7mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_Attention_CopperTop_Small
-Symbol, Attention, Copper Top, Small,
-Symbol, Attention, Copper Top, Small,
+Symbol_Attention_Triangle_17x15mm_Copper
+Symbol, attention, 17x15mm, copper layer
+warning graphic
 0
 0
 0
@@ -88271,120 +88593,120 @@ barrel polarity
 0
 Symbol
 Symbol_CC-Attribution_CopperTop_Big
-Symbol, CC-Attribution, Copper Top, Big,
-Symbol, CC-Attribution, Copper Top, Big,
+Creative Commons symbol, CC-BY, copper layer, 10mm
+attribution license graphic
 0
 0
 0
 Symbol
 Symbol_CC-Attribution_CopperTop_Small
-Symbol, CC-Share Alike, Copper Top, Small,
-Symbol, CC-Share Alike, Copper Top, Small,
+Creative Commons symbol, CC-BY, copper layer, 5mm
+
 0
 0
 0
 Symbol
 Symbol_CC-Noncommercial_CopperTop_Big
-Symbol, CC-Noncommercial, Copper Top, Big,
-Symbol, CC-Noncommercial, Copper Top, Big,
+Creative Commons symbol, CC-NC, copper layer, 10mm
+noncommercial non-commercial license graphic
 0
 0
 0
 Symbol
 Symbol_CC-Noncommercial_CopperTop_Small
-Symbol, CC-Noncommercial Alike, Copper Top, Small,
-Symbol, CC-Noncommercial Alike, Copper Top, Small,
+Creative Commons symbol, CC-NC, copper layer, 5mm
+noncommercial non-commercial license graphic
 0
 0
 0
 Symbol
 Symbol_CC-PublicDomain_CopperTop_Big
-Symbol, CC-PublicDomain, Copper Top, Big,
-Symbol, CC-PublicDomain, Copper Top, Big,
+Creative Commons symbol, CC0, copper layer, 10mm
+public domain license graphic
 0
 0
 0
 Symbol
 Symbol_CC-PublicDomain_CopperTop_Small
-Symbol, CC-Public Domain, Copper Top, Small,
-Symbol, CC-Public Domain, Copper Top, Small,
+Creative Commons symbol, CC0, copper layer, 10mm
+public domain license graphic
 0
 0
 0
 Symbol
 Symbol_CC-PublicDomain_SilkScreenTop_Big
-Symbol, CC-PublicDomain, SilkScreen Top, Big,
-Symbol, CC-PublicDomain, SilkScreen Top, Big,
+Creative Commons symbol, CC0, silkscreen layer, 10mm
+public domain license graphic
 0
 0
 0
 Symbol
 Symbol_CC-ShareAlike_CopperTop_Big
-Symbol, CC-Share Alike, Copper Top, Big,
-Symbol, CC-Share Alike, Copper Top, Big,
+Creative Commons symbol, CC-SA, copper layer, 10mm
+share-alike license graphic
 0
 0
 0
 Symbol
 Symbol_CC-ShareAlike_CopperTop_Small
-Symbol, CC-Share Alike, Copper Top, Small,
-Symbol, CC-Share Alike, Copper Top, Small,
+Creative Commons symbol, CC-SA, copper layer, 5mm
+share-alike license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommonsPublicDomain_CopperTop_Small
-Symbol, Creative Commons Public Domain, CopperTop, Small,
-Symbol, Creative Commons Public Domain, CopperTop, Small,
+Creative Commons symbol, CC0, with words, copper layer, 10mm
+public domain license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommonsPublicDomain_SilkScreenTop_Small
-Symbol, Creative Commons Public Domain, SilkScreenTop, Small,
-Symbol, Creative Commons Public Domain, SilkScreen Top, Small,
+Creative Commons symbol, CC0, with words, silkscreen layer, 10mm
+public domain license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommons_CopperTop_Type1_Big
-Symbol, Creative Commons, CopperTop, Type 1, Big,
-Symbol, Creative Commons, CopperTop, Type 1, Big,
+Creative Commons symbol, CC, with words, copper layer, 10mm
+license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommons_CopperTop_Type2_Big
-Symbol, Creative Commons, CopperTop, Type 2, Big,
-Symbol, Creative Commons, CopperTop, Type 2, Big,
+Creative Commons symbol, CC, copper layer, 10mm
+license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommons_CopperTop_Type2_Small
-Symbol, Creative Commons, CopperTop, Type 2, Small,
-Symbol, Creative Commons, CopperTop, Type 2, Small,
+Creative Commons symbol, CC, copper layer, 5mm
+license graphic
 0
 0
 0
 Symbol
 Symbol_CreativeCommons_SilkScreenTop_Type2_Big
-Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
-Symbol, Creative Commons, SilkScreen Top, Type 2, Big,
+Creative Commons symbol, CC0, silkscreen layer, 10mm
+license graphic
 0
 0
 0
 Symbol
-Symbol_Danger_CopperTop_Big
-Symbol, Danger, CopperTop, Big,
-Symbol, Danger, CopperTop, Big,
+Symbol_Danger_8x8mm_Copper
+Danger symbol, 8x8mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_Danger_CopperTop_Small
-Symbol, Danger, Copper Top, Small,
-Symbol, Danger, Copper Top, Small,
+Symbol_Danger_18x16mm_Copper
+Danger symbol, 18x16mm, copper layer
+warning graphic
 0
 0
 0
@@ -88431,37 +88753,37 @@ GNU-Logo, GNU-Head, GNU-Kopf, Silkscreen,
 0
 0
 Symbol
-Symbol_HighVoltage_Type1_CopperTop_Big
-Symbol, HighVoltage, Type1, Copper Top, Big,
-Symbol, HighVoltage, Type1, Copper Top, Big,
+Symbol_HighVoltage_NoTriangle_2x5mm_Copper
+High voltage symbol, no triangle, 2x5mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_HighVoltage_Type2_CopperTop_Big
-Symbol, HighVoltage, Type2, Copper Top, Big,
-Symbol, HighVoltage, Type2, Copper Top, Big,
+Symbol_HighVoltage_NoTriangle_6x15mm_Copper
+High voltage symbol, no triangle, 6x15mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_HighVoltage_Type2_CopperTop_VerySmall
-Symbol, High Voltage, Type 2, Copper Top, Very Small,
-Symbol, High Voltage, Type 2, Copper Top, Very Small,
+Symbol_HighVoltage_Triangle_6x6mm_Copper
+High voltage symbol, in triangle, 6x6mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_Highvoltage_Type1_CopperTop_Small
-Symbol, Highvoltage, Type 1, Copper Top, Small,
-Symbol, Highvoltage, Type 1, Copper Top, Small,
+Symbol_HighVoltage_Triangle_8x7mm_Copper
+High voltage symbol, in triangle, 8x7mm, copper layer
+warning graphic
 0
 0
 0
 Symbol
-Symbol_Highvoltage_Type2_CopperTop_Small
-Symbol, Highvoltage, Type 2, Copper Top, Small,
-Symbol, Highvoltage, Type 2, Copper Top, Small,
+Symbol_HighVoltage_Triangle_17x15mm_Copper
+High voltage symbol, in triangle, 17x15mm, copper layer
+warning graphic
 0
 0
 0
@@ -88570,6 +88892,13 @@ Altech AK300 terminal block pitch 5.0mm
 0
 4
 4
+TerminalBlock
+TerminalBlock_Degson_DG246-3.81-03P
+DEGSON ELECTRONICS DG246 terminal block, https://www.degson.com/index.php?a=downloadFile&id=1090277
+connector terminal block
+0
+6
+3
 TerminalBlock
 TerminalBlock_Wuerth_691311400102_P7.62mm
 https://katalog.we-online.de/em/datasheet/6913114001xx.pdf

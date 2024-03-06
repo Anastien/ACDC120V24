@@ -1,11 +1,11 @@
 {
   "board": {
-    "active_layer": 31,
+    "active_layer": 44,
     "active_layer_preset": "",
-    "auto_track_width": false,
+    "auto_track_width": true,
     "hidden_netclasses": [],
     "hidden_nets": [],
-    "high_contrast_mode": 0,
+    "high_contrast_mode": 1,
     "net_color_mode": 1,
     "opacity": {
       "images": 0.6,
@@ -63,7 +63,7 @@
       36,
       40
     ],
-    "visible_layers": "01c9100_80000001",
+    "visible_layers": "01c9120_80000001",
     "zone_display_mode": 0
   },
   "git": {
@@ -77,31 +77,6 @@
     "version": 3
   },
   "project": {
-    "files": [
-      {
-        "name": "ACDC150V24.kicad_sch",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -4488,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1176
-        }
-      },
-      {
-        "name": "ACDC150V24.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 0,
-          "maximized": true,
-          "pos_x": -4488,
-          "pos_y": -8,
-          "size_x": 1936,
-          "size_y": 1176
-        }
-      }
-    ]
+    "files": []
   }
 }

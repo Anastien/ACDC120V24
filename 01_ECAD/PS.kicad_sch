@@ -15568,7 +15568,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "IXFH20N100PSIHA6N80AE-GE3"
+		(property "Value" "SIHA6N80AE-GE3"
 			(at 81.915 170.815 90)
 			(effects
 				(font
@@ -15577,7 +15577,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PS:TO-220-3_Vertical"
+		(property "Footprint" "PS:SIHA6N80AE-GE3"
 			(at 81.28 162.56 0)
 			(effects
 				(font
@@ -16940,7 +16940,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "c1e3b48e-801f-4b85-83f9-c37fb6ab292e")
 		(property "Reference" "HS1"
@@ -16951,7 +16951,7 @@
 				)
 			)
 		)
-		(property "Value" "WV-T247-101E"
+		(property "Value" "504222B00000G"
 			(at 90.805 169.545 90)
 			(effects
 				(font
@@ -16959,7 +16959,7 @@
 				)
 			)
 		)
-		(property "Footprint" "PS:WV-T247-101E"
+		(property "Footprint" ""
 			(at 83.82 165.4048 0)
 			(effects
 				(font
@@ -16968,7 +16968,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "529701B02100G"
+		(property "Datasheet" "504222B00000G"
 			(at 83.82 165.4048 0)
 			(effects
 				(font
@@ -16978,6 +16978,15 @@
 			)
 		)
 		(property "Description" ""
+			(at 83.82 165.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" ""
 			(at 83.82 165.1 0)
 			(effects
 				(font
