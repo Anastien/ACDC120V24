@@ -1,1 +1,1 @@
-A genric 150 W, 24 V flayback power supply.
+A genric 120 W, 24 V flayback power supply.
