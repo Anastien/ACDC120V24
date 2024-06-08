@@ -1,0 +1,22 @@
+Circuit: * E:\Personal\Projects\ACDC150V24\02_DOCS\SIMULATION\Draft2.asc
+
+Direct Newton iteration for .op point succeeded.
+Heightened Def Con from 0.0750667 to 0.0750667
+
+Date: Tue May 07 04:24:05 2024
+Total elapsed time: 57.502 seconds.
+
+tnom = 27
+temp = 27
+method = modified trap
+totiter = 43364779
+traniter = 43364770
+tranpoints = 10671798
+accept = 7298585
+rejected = 3373214
+matrix size = 15
+fillins = 2
+solver = Normal
+Matrix Compiler1: 774 bytes object code size  0.3/0.1/[0.1]
+Matrix Compiler2: 1.11 KB object code size  0.1/0.2/[0.1]
+

@@ -48,7 +48,7 @@
         "silk_text_thickness": 0.15,
         "silk_text_upright": false,
         "zones": {
-          "min_clearance": 0.508
+          "min_clearance": 0.0
         }
       },
       "diff_pair_dimensions": [
@@ -60,55 +60,131 @@
       ],
       "drc_exclusions": [
         [
-          "clearance|107650000|74350000|2857d934-8d05-4b81-bbf7-d799c9341ed5|e816e6c6-ec44-412e-b893-ea9092884641",
+          "clearance|45637500|102561000|a2d2c7b5-a1a4-4b5e-b4ad-d0dd9ade3ce9|eb147809-c403-4be3-ba5e-6c0367bbf8d5",
           ""
         ],
         [
-          "clearance|110900000|76000000|5aea0615-b3c5-476a-a0a7-8a7ceb336926|e816e6c6-ec44-412e-b893-ea9092884641",
+          "clearance|45637500|104148500|aa9e3c90-8a3c-4c9c-bcb8-b9e130e0f5f8|a2d2c7b5-a1a4-4b5e-b4ad-d0dd9ade3ce9",
           ""
         ],
         [
-          "clearance|110900000|77860653|5aea0615-b3c5-476a-a0a7-8a7ceb336926|c58b21e9-1340-419f-8383-85ded674e31c",
+          "connection_width|112684999|112743500|39b32faf-c3f3-4d5c-86c6-3f98ed236e1f|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "clearance|110900000|80000000|5aea0615-b3c5-476a-a0a7-8a7ceb336926|e0056983-63cf-41d7-b82f-347c53edfffb",
+          "silk_edge_clearance|101315000|96061000|7554789a-9ae7-4a51-afdf-ac7fe4c2eb7a|fcee9675-bc97-48eb-8047-cec06e4425ec",
           ""
         ],
         [
-          "clearance|73502500|102440000|ff6b5dd0-ac36-41d2-8f0a-c19416cdec19|90fb1779-1512-40e0-a6a6-96d0bb6eeaf1",
+          "silk_edge_clearance|106555000|96061000|7554789a-9ae7-4a51-afdf-ac7fe4c2eb7a|6614aa3c-1925-4750-a004-a26b236aa462",
           ""
         ],
         [
-          "clearance|73502500|98312500|90fb1779-1512-40e0-a6a6-96d0bb6eeaf1|d920b0a2-149b-4f15-a63b-9db85153944a",
+          "silk_edge_clearance|33185000|46661000|7ceb139a-9307-4888-a28c-7346f6b3b0f9|aaae3109-2379-41bb-89b3-7f256633ead2",
           ""
         ],
         [
-          "invalid_outline|106900000|139900000|0a63cbff-2729-4001-9d13-225cfb4995a5|00000000-0000-0000-0000-000000000000",
+          "silk_edge_clearance|44501000|153877000|3e462175-ca94-4adc-9995-15ae4d6cb376|79f9a815-58c0-4383-a102-8f0247b9ffc8",
           ""
         ],
         [
-          "invalid_outline|106900000|25900000|b641cf11-aa78-41a6-bf7d-f7d4968d2c1e|00000000-0000-0000-0000-000000000000",
+          "silk_edge_clearance|82685000|103776000|614a16e5-1b40-413e-83be-a0966f0df730|1d53ad1e-d62e-4363-9ed3-e1874cb5b082",
           ""
         ],
         [
-          "invalid_outline|114900000|131900000|1bb72c56-b6a3-4ee3-abcd-e18237c08a74|00000000-0000-0000-0000-000000000000",
+          "silk_edge_clearance|82685000|111516000|614a16e5-1b40-413e-83be-a0966f0df730|77cfe095-83ec-43e7-aa13-1a80cf5e65f7",
           ""
         ],
         [
-          "invalid_outline|114900000|33900000|52beaf18-0673-4ff0-93df-85474107192b|00000000-0000-0000-0000-000000000000",
+          "silk_edge_clearance|82700000|111516000|614a16e5-1b40-413e-83be-a0966f0df730|260af689-f234-4807-ae9e-55930272f8b9",
           ""
         ],
         [
-          "invalid_outline|35900000|131900000|c63e7bec-dd95-4632-8efa-3e755b7ee9ad|00000000-0000-0000-0000-000000000000",
+          "silk_edge_clearance|84700000|111516000|ba354730-5bc1-4967-8688-f6a64865ca5a|b82ae17c-8bed-47b3-9a3d-fab5f505847b",
           ""
         ],
         [
-          "invalid_outline|43900000|139900000|278922a3-11b9-4038-9df5-68b718e6154a|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|101315000|98311000|fcee9675-bc97-48eb-8047-cec06e4425ec|00000000-0000-0000-0000-000000000000",
           ""
         ],
         [
-          "invalid_outline|51400000|110900000|6595fd9a-eb04-42be-b45e-58deba79bc8e|00000000-0000-0000-0000-000000000000",
+          "silk_over_copper|106555000|98311000|6614aa3c-1925-4750-a004-a26b236aa462|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|33685000|61461000|aaae3109-2379-41bb-89b3-7f256633ead2|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|44794351|66162320|04723c7c-b783-4f29-8b89-8202687909b4|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|45245657|153914550|79f9a815-58c0-4383-a102-8f0247b9ffc8|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|82185000|111516000|77cfe095-83ec-43e7-aa13-1a80cf5e65f7|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|82760592|111173199|260af689-f234-4807-ae9e-55930272f8b9|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|84700000|111516000|b82ae17c-8bed-47b3-9a3d-fab5f505847b|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_over_copper|85185000|103776000|1d53ad1e-d62e-4363-9ed3-e1874cb5b082|00000000-0000-0000-0000-000000000000",
+          ""
+        ],
+        [
+          "silk_overlap|103672201|138186000|0d1cd889-cfa7-454b-ba60-e517705fb6b9|9b6a181c-90e6-400c-b9e4-e9d30497d73f",
+          ""
+        ],
+        [
+          "silk_overlap|114648024|116783500|3ea5ebf7-07da-4ac7-a17f-e74633486e56|7b4976d1-b0b1-4e93-90b0-c47de4069fc9",
+          ""
+        ],
+        [
+          "silk_overlap|114795000|116183500|3ea5ebf7-07da-4ac7-a17f-e74633486e56|0e3ebe38-5df9-4255-b61f-a75dfb80faea",
+          ""
+        ],
+        [
+          "silk_overlap|115645000|115583500|3ea5ebf7-07da-4ac7-a17f-e74633486e56|09273316-4a79-4be2-a89a-6000c2abf270",
+          ""
+        ],
+        [
+          "silk_overlap|116495000|115447617|3ea5ebf7-07da-4ac7-a17f-e74633486e56|b25a3f86-7c20-428e-8e03-de003abefdbc",
+          ""
+        ],
+        [
+          "silk_overlap|36008984|73451756|96a11eb9-cdcb-4235-ae2f-7b60aa24c070|55c0fe59-74ed-436d-93b5-72f64db77a63",
+          ""
+        ],
+        [
+          "silk_overlap|36008984|84541000|96a11eb9-cdcb-4235-ae2f-7b60aa24c070|7f7b4d05-580c-405f-8173-56bbc98839ff",
+          ""
+        ],
+        [
+          "silk_overlap|85197000|138904000|f484913a-b166-4ed6-b08b-2dfc5513d8fe|c7cbb42b-517f-4660-a143-2f2c60a5eed5",
+          ""
+        ],
+        [
+          "silk_overlap|85285000|138904000|eddad04c-f3ed-4fe1-b821-d9fab6a074a6|c7cbb42b-517f-4660-a143-2f2c60a5eed5",
+          ""
+        ],
+        [
+          "silk_overlap|85285000|142174000|aaf458ae-fc3f-49f3-bd96-2bffdf582806|c7cbb42b-517f-4660-a143-2f2c60a5eed5",
+          ""
+        ],
+        [
+          "silk_overlap|85285000|145875000|c8a3666a-2b82-4896-a807-289a77257789|c7cbb42b-517f-4660-a143-2f2c60a5eed5",
+          ""
+        ],
+        [
+          "silk_overlap|85285000|149144000|7bf5e911-d3c0-4932-bbde-3496bc21cfa1|c7cbb42b-517f-4660-a143-2f2c60a5eed5",
           ""
         ]
       ],
@@ -233,6 +309,8 @@
       ],
       "track_widths": [
         0.0,
+        0.16,
+        0.5,
         2.0
       ],
       "tuning_pattern_settings": {
@@ -727,12 +805,48 @@
           "label": "Qty",
           "name": "Quantity",
           "show": true
+        },
+        {
+          "group_by": false,
+          "label": "Qty",
+          "name": "${QUANTITY}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "#",
+          "name": "${ITEM_NUMBER}",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Current Rating",
+          "name": "Current Rating",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "PN",
+          "name": "PN",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "VOLTAGE",
+          "name": "VOLTAGE",
+          "show": false
+        },
+        {
+          "group_by": false,
+          "label": "Description",
+          "name": "Description",
+          "show": false
         }
       ],
       "filter_string": "",
       "group_symbols": true,
       "include_excluded_from_bom": false,
-      "name": "Grouped By Value",
+      "name": "",
       "sort_asc": true,
       "sort_field": "Reference"
     },

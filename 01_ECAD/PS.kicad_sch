@@ -2027,6 +2027,18 @@
 					)
 				)
 				(arc
+					(start -2.794 3.048)
+					(mid -2.6144 2.9736)
+					(end -2.54 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
 					(start -3.048 2.794)
 					(mid -2.9736 2.9736)
 					(end -2.794 3.048)
@@ -2051,9 +2063,9 @@
 					)
 				)
 				(arc
-					(start -2.794 3.048)
-					(mid -2.6144 2.9736)
-					(end -2.54 2.794)
+					(start -2.794 1.905)
+					(mid -2.9736 1.9794)
+					(end -3.048 2.159)
 					(stroke
 						(width 0)
 						(type default)
@@ -2066,18 +2078,6 @@
 					(start -2.54 2.159)
 					(mid -2.6144 1.9794)
 					(end -2.794 1.905)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
-					(start -2.794 1.905)
-					(mid -2.9736 1.9794)
-					(end -3.048 2.159)
 					(stroke
 						(width 0)
 						(type default)
@@ -2776,9 +2776,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 1.905 -13.335)
-					(radius 0.254)
+				(arc
+					(start 1.916 -12.7)
+					(mid 2.5401 -13.335)
+					(end 1.916 -13.97)
 					(stroke
 						(width 0)
 						(type default)
@@ -2787,10 +2788,9 @@
 						(type none)
 					)
 				)
-				(arc
-					(start 1.916 -12.7)
-					(mid 2.5401 -13.335)
-					(end 1.916 -13.97)
+				(circle
+					(center 1.905 -13.335)
+					(radius 0.254)
 					(stroke
 						(width 0)
 						(type default)
@@ -2943,10 +2943,9 @@
 						(type none)
 					)
 				)
-				(arc
-					(start 6.339 -12.7)
-					(mid 5.7149 -12.065)
-					(end 6.339 -11.43)
+				(circle
+					(center 6.35 -12.065)
+					(radius 0.254)
 					(stroke
 						(width 0)
 						(type default)
@@ -2955,9 +2954,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 6.35 -12.065)
-					(radius 0.254)
+				(arc
+					(start 6.339 -12.7)
+					(mid 5.7149 -12.065)
+					(end 6.339 -11.43)
 					(stroke
 						(width 0)
 						(type default)
@@ -3749,10 +3749,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.54 -0.635) (xy -3.175 0.635) (xy -1.905 0.635) (xy -2.54 -0.635)
+						(xy -2.54 -0.635) (xy -2.54 -2.54) (xy -5.08 -2.54)
 					)
 					(stroke
-						(width 0.254)
+						(width 0)
 						(type default)
 					)
 					(fill
@@ -3761,10 +3761,10 @@
 				)
 				(polyline
 					(pts
-						(xy -2.54 -0.635) (xy -2.54 -2.54) (xy -5.08 -2.54)
+						(xy -2.54 -0.635) (xy -3.175 0.635) (xy -1.905 0.635) (xy -2.54 -0.635)
 					)
 					(stroke
-						(width 0)
+						(width 0.254)
 						(type default)
 					)
 					(fill
@@ -4074,9 +4074,8 @@
 			(symbol "Heatsink_0_1"
 				(polyline
 					(pts
-						(xy -0.3302 1.27) (xy -0.3302 3.81) (xy 0.3048 3.81) (xy 0.3048 1.27) (xy 0.9398 1.27) (xy 0.9398 3.81)
-						(xy 1.5748 3.81) (xy 1.5748 1.27) (xy 2.2098 1.27) (xy 2.2098 3.81) (xy 2.8448 3.81) (xy 2.8448 0)
-						(xy -0.9652 0)
+						(xy -0.3302 1.27) (xy -0.9652 1.27) (xy -0.9652 3.81) (xy -1.6002 3.81) (xy -1.6002 1.27) (xy -2.2352 1.27)
+						(xy -2.2352 3.81) (xy -2.8702 3.81) (xy -2.8702 0) (xy -0.9652 0)
 					)
 					(stroke
 						(width 0.254)
@@ -4088,8 +4087,9 @@
 				)
 				(polyline
 					(pts
-						(xy -0.3302 1.27) (xy -0.9652 1.27) (xy -0.9652 3.81) (xy -1.6002 3.81) (xy -1.6002 1.27) (xy -2.2352 1.27)
-						(xy -2.2352 3.81) (xy -2.8702 3.81) (xy -2.8702 0) (xy -0.9652 0)
+						(xy -0.3302 1.27) (xy -0.3302 3.81) (xy 0.3048 3.81) (xy 0.3048 1.27) (xy 0.9398 1.27) (xy 0.9398 3.81)
+						(xy 1.5748 3.81) (xy 1.5748 1.27) (xy 2.2098 1.27) (xy 2.2098 3.81) (xy 2.8448 3.81) (xy 2.8448 0)
+						(xy -0.9652 0)
 					)
 					(stroke
 						(width 0.254)
@@ -5685,8 +5685,8 @@
 		(uuid 56e78114-4972-4690-b67b-bbc504e86b0f)
 	)
 	(rectangle
-		(start 126.873 137.16)
-		(end 135.509 139.7)
+		(start 126.746 137.16)
+		(end 135.382 139.7)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -5698,8 +5698,8 @@
 		(uuid 59935b77-bac6-40fc-8935-1bc0efe5d010)
 	)
 	(rectangle
-		(start 190.9318 12.0142)
-		(end 196.6468 14.5542)
+		(start 190.4238 12.0142)
+		(end 196.1388 14.5542)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -5827,7 +5827,7 @@
 	)
 	(rectangle
 		(start 229.87 243.713)
-		(end 246.634 246.253)
+		(end 247.65 246.253)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -5892,7 +5892,7 @@
 	)
 	(rectangle
 		(start 12.065 137.16)
-		(end 20.701 139.7)
+		(end 21.082 139.7)
 		(stroke
 			(width -0.0001)
 			(type default)
@@ -5957,7 +5957,7 @@
 	)
 	(text "MOUNTING HOLES"
 		(exclude_from_sim no)
-		(at 246.38 245.872 0)
+		(at 247.142 245.872 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6010,7 +6010,7 @@
 	)
 	(text "VOUT FB"
 		(exclude_from_sim no)
-		(at 135.001 139.192 0)
+		(at 135.382 139.446 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6036,7 +6036,7 @@
 	)
 	(text "IN EMI FLT. & PROTECTION"
 		(exclude_from_sim no)
-		(at 109.1692 14.2748 0)
+		(at 109.982 14.224 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6050,7 +6050,7 @@
 	)
 	(text "AC IN"
 		(exclude_from_sim no)
-		(at 17.399 14.224 0)
+		(at 17.526 14.224 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6219,7 +6219,7 @@
 	)
 	(text "FLYB. TRANS."
 		(exclude_from_sim no)
-		(at 281.686 13.97 0)
+		(at 281.94 13.97 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6269,7 +6269,7 @@
 	)
 	(text "DC OUT"
 		(exclude_from_sim no)
-		(at 236.982 139.446 0)
+		(at 237.236 139.446 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6297,7 +6297,7 @@
 	)
 	(text "ON/OFF SW"
 		(exclude_from_sim no)
-		(at 57.15 13.97 0)
+		(at 57.404 14.224 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6336,7 +6336,7 @@
 	)
 	(text "FLYB. SW"
 		(exclude_from_sim no)
-		(at 20.574 139.192 0)
+		(at 21.082 139.192 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -7277,7 +7277,7 @@
 	)
 	(polyline
 		(pts
-			(xy 261.62 78.74) (xy 346.71 78.74)
+			(xy 261.62 78.486) (xy 346.964 78.486)
 		)
 		(stroke
 			(width 2)
@@ -7440,7 +7440,7 @@
 	)
 	(polyline
 		(pts
-			(xy 126.873 137.16) (xy 186.944 137.16)
+			(xy 126.746 137.16) (xy 186.944 137.16)
 		)
 		(stroke
 			(width 0)
@@ -8284,7 +8284,7 @@
 	)
 	(polyline
 		(pts
-			(xy 346.964 12.954) (xy 346.964 80.264)
+			(xy 346.964 12.954) (xy 346.964 78.74)
 		)
 		(stroke
 			(width 2)
@@ -8657,7 +8657,7 @@
 	)
 	(polyline
 		(pts
-			(xy 261.62 78.74) (xy 261.62 151.13)
+			(xy 261.62 78.486) (xy 261.62 168.402)
 		)
 		(stroke
 			(width 2)
@@ -8910,7 +8910,7 @@
 	)
 	(polyline
 		(pts
-			(xy 152.4 151.13) (xy 152.4 275.59)
+			(xy 152.4 150.368) (xy 152.4 275.844)
 		)
 		(stroke
 			(width 2)
@@ -9487,7 +9487,7 @@
 	)
 	(polyline
 		(pts
-			(xy 45.72 137.16) (xy 126.873 137.16)
+			(xy 45.72 137.16) (xy 126.746 137.16)
 		)
 		(stroke
 			(width 0)
@@ -9981,7 +9981,7 @@
 	)
 	(polyline
 		(pts
-			(xy 126.873 137.16) (xy 126.873 275.971)
+			(xy 126.746 137.16) (xy 126.746 275.971)
 		)
 		(stroke
 			(width 0)
@@ -11154,7 +11154,7 @@
 		(dnp no)
 		(uuid "027c68df-9a3f-4401-9e8d-c6c6e493010c")
 		(property "Reference" "D2"
-			(at 49.53 166.37 0)
+			(at 49.276 166.624 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11162,7 +11162,7 @@
 			)
 		)
 		(property "Value" "PMEG100T10ELXDX"
-			(at 49.53 170.18 0)
+			(at 54.356 169.926 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11607,7 +11607,7 @@
 		(dnp no)
 		(uuid "0e21ea8b-83d4-4b61-8b74-9b0401713536")
 		(property "Reference" "R3"
-			(at 55.245 167.005 90)
+			(at 59.182 166.624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11616,7 +11616,7 @@
 			)
 		)
 		(property "Value" "4.7"
-			(at 62.23 167.005 90)
+			(at 65.024 166.624 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12115,7 +12115,7 @@
 		(dnp no)
 		(uuid "2896e7e9-8c9d-4eac-98fe-a9a6195b57e3")
 		(property "Reference" "TR1"
-			(at 343.916 39.878 0)
+			(at 344.17 39.624 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -12159,7 +12159,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "FA2443-AL"
 			(at 342.9 40.64 0)
 			(effects
 				(font
@@ -12246,7 +12246,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "13FR010E"
 			(at 312.42 38.1 0)
 			(effects
 				(font
@@ -12289,7 +12289,7 @@
 		(dnp no)
 		(uuid "2b8f2bbf-c554-4ad9-9f01-98c3eeef788a")
 		(property "Reference" "R9"
-			(at 87.122 232.156 90)
+			(at 85.344 235.458 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12298,7 +12298,7 @@
 			)
 		)
 		(property "Value" "20"
-			(at 87.122 239.014 90)
+			(at 85.344 229.87 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12458,7 +12458,7 @@
 		(dnp no)
 		(uuid "31346f43-2d75-4d9d-9b3e-22020370fa55")
 		(property "Reference" "R4"
-			(at 69.596 183.134 90)
+			(at 67.564 179.07 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12467,7 +12467,7 @@
 			)
 		)
 		(property "Value" "10k"
-			(at 69.596 177.292 90)
+			(at 67.564 172.72 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12536,7 +12536,7 @@
 		(dnp no)
 		(uuid "326ea859-0c46-49c5-bccc-e706c00dbcce")
 		(property "Reference" "L1"
-			(at 342.9 90.424 90)
+			(at 340.868 90.424 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13311,7 +13311,7 @@
 		(dnp no)
 		(uuid "4eb3cbe3-dc12-46cc-a9d1-28c12ca66fd9")
 		(property "Reference" "D1"
-			(at 49.53 163.83 0)
+			(at 49.276 163.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13387,7 +13387,7 @@
 		(dnp no)
 		(uuid "4ec05176-e705-464f-bcf4-690cf63a1047")
 		(property "Reference" "R6"
-			(at 77.978 225.044 90)
+			(at 80.01 227.076 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13396,7 +13396,7 @@
 			)
 		)
 		(property "Value" "680K"
-			(at 77.851 217.551 90)
+			(at 80.01 221.996 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13937,7 +13937,7 @@
 		(dnp no)
 		(uuid "59d54eb1-b3f5-4ded-8c5b-43d19d8d8ec9")
 		(property "Reference" "R11"
-			(at 107.95 264.16 90)
+			(at 108.204 260.35 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13945,8 +13945,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "31.875k"
-			(at 107.95 257.175 90)
+		(property "Value" "39k"
+			(at 108.204 252.984 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13963,7 +13963,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "ERA-3ARW393V"
 			(at 109.22 259.08 0)
 			(effects
 				(font
@@ -13972,7 +13972,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ERA-3ARW393V"
+			(at 109.22 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "ERA-3ARW393V"
 			(at 109.22 259.08 0)
 			(effects
 				(font
@@ -14228,6 +14237,72 @@
 			(project "ACDC150V24"
 				(path "/cd1e8715-6903-46d3-9212-b98a2f6a8e59/abfea248-d9c7-4fc9-91c1-0206f1d1adf1"
 					(reference "C21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "ps:GND_IN")
+		(at 149.86 226.06 270)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "6337006e-9884-40f1-8351-662651619131")
+		(property "Reference" "#PWR08"
+			(at 143.51 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "DCR_GND"
+			(at 146.05 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(color 255 0 0 1)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 149.86 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 149.86 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" ""
+			(at 149.86 226.06 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "7741466e-eb21-47e1-9bc7-0f68fbfbb3ee")
+		)
+		(instances
+			(project "ACDC120V24"
+				(path "/cd1e8715-6903-46d3-9212-b98a2f6a8e59/abfea248-d9c7-4fc9-91c1-0206f1d1adf1"
+					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -14731,7 +14806,7 @@
 		(dnp no)
 		(uuid "7713ea38-01f2-4cdb-8889-e2f841715a34")
 		(property "Reference" "R15"
-			(at 188.722 184.404 90)
+			(at 185.166 184.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14740,7 +14815,7 @@
 			)
 		)
 		(property "Value" "1.5k"
-			(at 196.85 184.15 90)
+			(at 191.516 184.404 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15147,72 +15222,6 @@
 			(project "ACDC150V24"
 				(path "/cd1e8715-6903-46d3-9212-b98a2f6a8e59/abfea248-d9c7-4fc9-91c1-0206f1d1adf1"
 					(reference "#PWR02")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "ps:GND_DC_P")
-		(at 149.86 226.06 270)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "8c9cd09a-aa44-461c-aa48-7ab81add0c4d")
-		(property "Reference" "#PWR08"
-			(at 143.51 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND_DC_P"
-			(at 146.05 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(color 255 0 0 1)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 149.86 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 149.86 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GNDREF\" , reference supply ground"
-			(at 149.86 226.06 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "9088ed77-d29f-4f68-81eb-4a0877752d8c")
-		)
-		(instances
-			(project "ACDC150V24"
-				(path "/cd1e8715-6903-46d3-9212-b98a2f6a8e59/abfea248-d9c7-4fc9-91c1-0206f1d1adf1"
-					(reference "#PWR08")
 					(unit 1)
 				)
 			)
@@ -15626,7 +15635,7 @@
 		(dnp no)
 		(uuid "979aafbf-0768-43ea-bcb2-f1f71c6126ff")
 		(property "Reference" "R5"
-			(at 79.756 183.134 90)
+			(at 80.01 179.324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15635,7 +15644,7 @@
 			)
 		)
 		(property "Value" "0.25"
-			(at 79.756 177.292 90)
+			(at 80.01 171.958 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15703,7 +15712,7 @@
 			)
 		)
 		(property "Value" "SIHA6N80AE-GE3"
-			(at 81.915 170.815 90)
+			(at 82.042 156.718 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15775,7 +15784,7 @@
 		(dnp no)
 		(uuid "9d727cfa-72a9-46d7-ab5d-4179d688c14b")
 		(property "Reference" "R2"
-			(at 55.245 161.925 90)
+			(at 59.182 161.544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15784,7 +15793,7 @@
 			)
 		)
 		(property "Value" "4.7"
-			(at 62.23 161.925 90)
+			(at 65.024 161.544 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16171,7 +16180,7 @@
 		(dnp no)
 		(uuid "ae5cb090-dae1-4427-98e8-90878c0162fb")
 		(property "Reference" "R1"
-			(at 49.022 171.704 90)
+			(at 50.546 171.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16180,7 +16189,7 @@
 			)
 		)
 		(property "Value" "1.33k"
-			(at 54.483 171.831 90)
+			(at 60.452 171.704 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16240,7 +16249,7 @@
 		(dnp no)
 		(uuid "b1a3984f-51c7-4ed4-aba4-e17d25621f2a")
 		(property "Reference" "R8"
-			(at 77.978 245.364 90)
+			(at 80.01 247.904 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16249,7 +16258,7 @@
 			)
 		)
 		(property "Value" "680K"
-			(at 77.851 237.871 90)
+			(at 80.01 242.316 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16319,7 +16328,7 @@
 		(dnp no)
 		(uuid "b1af832d-d1a9-4b03-aff0-da9892558f3a")
 		(property "Reference" "R10"
-			(at 108.204 240.03 90)
+			(at 108.204 243.84 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16327,8 +16336,8 @@
 				(justify left)
 			)
 		)
-		(property "Value" "86.6k"
-			(at 107.95 231.775 90)
+		(property "Value" "200k"
+			(at 107.95 236.982 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16345,7 +16354,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "ERA-3AEB204V"
 			(at 109.22 238.76 0)
 			(effects
 				(font
@@ -16354,7 +16363,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ERA-3AEB204V"
+			(at 109.22 238.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "ERA-3AEB204V"
 			(at 109.22 238.76 0)
 			(effects
 				(font
@@ -16979,7 +16997,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Heatsink")
-		(at 83.82 165.1 270)
+		(at 85.09 163.83 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -16987,7 +17005,7 @@
 		(dnp no)
 		(uuid "c1e3b48e-801f-4b85-83f9-c37fb6ab292e")
 		(property "Reference" "HS1"
-			(at 85.344 161.417 90)
+			(at 86.614 160.02 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16995,7 +17013,7 @@
 			)
 		)
 		(property "Value" "504222B00000G"
-			(at 90.805 169.545 90)
+			(at 92.71 167.894 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17003,7 +17021,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 83.82 165.4048 0)
+			(at 85.09 164.1348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17012,7 +17030,7 @@
 			)
 		)
 		(property "Datasheet" "504222B00000G"
-			(at 83.82 165.4048 0)
+			(at 85.09 164.1348 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17021,7 +17039,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 83.82 165.1 0)
+			(at 85.09 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17030,7 +17048,7 @@
 			)
 		)
 		(property "PN" ""
-			(at 83.82 165.1 0)
+			(at 85.09 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17712,7 +17730,7 @@
 		(dnp no)
 		(uuid "ddf2ce54-3eb2-4975-91c5-31b46a9a4d6b")
 		(property "Reference" "R24"
-			(at 373.38 27.94 90)
+			(at 370.205 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17721,7 +17739,7 @@
 			)
 		)
 		(property "Value" "47"
-			(at 379.73 27.94 90)
+			(at 377.19 27.94 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17871,7 +17889,7 @@
 		(dnp no)
 		(uuid "dfb48c9a-0b0b-43d0-80b9-e6ab23f97fc2")
 		(property "Reference" "R7"
-			(at 77.978 235.204 90)
+			(at 80.01 237.236 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17880,7 +17898,7 @@
 			)
 		)
 		(property "Value" "680K"
-			(at 77.851 227.711 90)
+			(at 80.01 232.156 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17984,7 +18002,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "13FR010E"
 			(at 317.5 35.56 0)
 			(effects
 				(font
@@ -18028,7 +18046,7 @@
 		(dnp no)
 		(uuid "e6114059-2270-4d12-b92f-0d8bd73dc171")
 		(property "Reference" "D4"
-			(at 99.06 231.14 0)
+			(at 96.266 229.87 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18036,7 +18054,7 @@
 			)
 		)
 		(property "Value" "PMEG100T10ELXDX"
-			(at 101.6 226.06 0)
+			(at 99.06 226.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18105,7 +18123,7 @@
 		(dnp no)
 		(uuid "ef20dbbf-64e4-4aba-ad5b-eb73cf2b8b5b")
 		(property "Reference" "D3"
-			(at 88.9 242.57 0)
+			(at 88.9 243.078 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18312,7 +18330,7 @@
 	)
 	(symbol
 		(lib_id "Mechanical:Heatsink")
-		(at 370.84 49.53 180)
+		(at 351.79 29.21 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -18320,7 +18338,7 @@
 		(dnp no)
 		(uuid "fb03e479-ced8-44a6-9b9c-6e4cf9b4b7d4")
 		(property "Reference" "HS2"
-			(at 374.904 51.816 90)
+			(at 355.854 31.496 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18328,7 +18346,7 @@
 			)
 		)
 		(property "Value" "V5629W220"
-			(at 373.38 48.26 0)
+			(at 354.33 27.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18336,7 +18354,7 @@
 			)
 		)
 		(property "Footprint" "PS:V5629W220"
-			(at 370.5352 49.53 0)
+			(at 351.4852 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18345,7 +18363,7 @@
 			)
 		)
 		(property "Datasheet" "529701B02100G"
-			(at 370.5352 49.53 0)
+			(at 351.4852 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18354,7 +18372,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 370.84 49.53 0)
+			(at 351.79 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18363,7 +18381,7 @@
 			)
 		)
 		(property "PN" ""
-			(at 370.84 49.53 0)
+			(at 351.79 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
