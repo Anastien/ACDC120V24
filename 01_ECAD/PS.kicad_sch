@@ -416,17 +416,6 @@
 				)
 			)
 			(symbol "D_Bridge_+AA-_0_1"
-				(circle
-					(center -5.08 0)
-					(radius 0.254)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type outline)
-					)
-				)
 				(polyline
 					(pts
 						(xy -5.08 0) (xy 0 -5.08) (xy 5.08 0) (xy 0 5.08) (xy -5.08 0)
@@ -437,6 +426,17 @@
 					)
 					(fill
 						(type none)
+					)
+				)
+				(circle
+					(center -5.08 0)
+					(radius 0.254)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type outline)
 					)
 				)
 				(polyline
@@ -2027,18 +2027,6 @@
 					)
 				)
 				(arc
-					(start -2.794 3.048)
-					(mid -2.6144 2.9736)
-					(end -2.54 2.794)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
-					)
-				)
-				(arc
 					(start -3.048 2.794)
 					(mid -2.9736 2.9736)
 					(end -2.794 3.048)
@@ -2054,6 +2042,18 @@
 					(start -2.794 2.54)
 					(mid -2.9736 2.6144)
 					(end -3.048 2.794)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(arc
+					(start -2.794 3.048)
+					(mid -2.6144 2.9736)
+					(end -2.54 2.794)
 					(stroke
 						(width 0)
 						(type default)
@@ -2776,10 +2776,9 @@
 						(type none)
 					)
 				)
-				(arc
-					(start 1.916 -12.7)
-					(mid 2.5401 -13.335)
-					(end 1.916 -13.97)
+				(circle
+					(center 1.905 -13.335)
+					(radius 0.254)
 					(stroke
 						(width 0)
 						(type default)
@@ -2788,9 +2787,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 1.905 -13.335)
-					(radius 0.254)
+				(arc
+					(start 1.916 -12.7)
+					(mid 2.5401 -13.335)
+					(end 1.916 -13.97)
 					(stroke
 						(width 0)
 						(type default)
@@ -2943,9 +2943,10 @@
 						(type none)
 					)
 				)
-				(circle
-					(center 6.35 -12.065)
-					(radius 0.254)
+				(arc
+					(start 6.339 -12.7)
+					(mid 5.7149 -12.065)
+					(end 6.339 -11.43)
 					(stroke
 						(width 0)
 						(type default)
@@ -2954,10 +2955,9 @@
 						(type none)
 					)
 				)
-				(arc
-					(start 6.339 -12.7)
-					(mid 5.7149 -12.065)
-					(end 6.339 -11.43)
+				(circle
+					(center 6.35 -12.065)
+					(radius 0.254)
 					(stroke
 						(width 0)
 						(type default)
@@ -5302,6 +5302,18 @@
 						(type none)
 					)
 				)
+				(polyline
+					(pts
+						(xy 7.62 -0.635) (xy 7.62 -4.445) (xy 6.985 -4.445)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
 				(rectangle
 					(start 7.62 -0.635)
 					(end 9.525 -1.016)
@@ -5313,18 +5325,6 @@
 					(fill
 						(type color)
 						(color 132 0 0 1)
-					)
-				)
-				(polyline
-					(pts
-						(xy 7.62 -0.635) (xy 7.62 -4.445) (xy 6.985 -4.445)
-					)
-					(stroke
-						(width 0)
-						(type default)
-					)
-					(fill
-						(type none)
 					)
 				)
 				(rectangle
@@ -5660,8 +5660,8 @@
 		(uuid 552d9009-877d-4c3c-bb1e-fbb36cdd3a10)
 	)
 	(rectangle
-		(start 238.76 213.36)
-		(end 292.1 218.44)
+		(start 230.505 205.74)
+		(end 270.51 219.075)
 		(stroke
 			(width 0)
 			(type default)
@@ -6206,9 +6206,9 @@
 		)
 		(uuid "9d31e49c-036e-4608-b4e5-9115296524e8")
 	)
-	(text "Should I conect GND to earth with R 1K and cap?"
+	(text "Should I conect GND to\n earth with R 1K and cap?"
 		(exclude_from_sim no)
-		(at 241.3 215.9 0)
+		(at 233.68 212.725 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -6551,10 +6551,10 @@
 		(uuid "4eabc237-189e-4738-bae4-0a0c078138f0")
 	)
 	(junction
-		(at 43.18 264.16)
+		(at 40.64 264.16)
 		(diameter 0)
 		(color 0 0 0 0)
-		(uuid "516d76cd-67e1-4f96-a466-8eea72b5baa5")
+		(uuid "4eb95152-a032-43a8-b935-858b655e347e")
 	)
 	(junction
 		(at 353.06 101.6)
@@ -6932,6 +6932,17 @@
 		)
 		(uuid "0968ce8f-554f-4fc0-b3fc-9bad03d6d734")
 	)
+	(polyline
+		(pts
+			(xy 394.97 283.21) (xy 399.415 283.21)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "096fb1ab-e44b-4804-aac2-3dbef65280f8")
+	)
 	(wire
 		(pts
 			(xy 71.12 251.46) (xy 71.12 256.54)
@@ -6981,6 +6992,17 @@
 			(type default)
 		)
 		(uuid "0c528a9f-457d-44a9-a12a-d1cf299cfc63")
+	)
+	(polyline
+		(pts
+			(xy 398.145 282.575) (xy 398.145 283.845)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "0c755231-15b9-49ca-821e-a8f68eb6a677")
 	)
 	(wire
 		(pts
@@ -7085,7 +7107,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 261.62) (xy 43.18 264.16)
+			(xy 40.64 261.62) (xy 40.64 264.16)
 		)
 		(stroke
 			(width 0)
@@ -7298,7 +7320,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 248.92) (xy 50.8 248.92)
+			(xy 40.64 248.92) (xy 50.8 248.92)
 		)
 		(stroke
 			(width 0)
@@ -7581,7 +7603,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 264.16) (xy 43.18 264.16)
+			(xy 30.48 264.16) (xy 40.64 264.16)
 		)
 		(stroke
 			(width 0)
@@ -7661,7 +7683,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 261.62) (xy 33.02 264.16)
+			(xy 30.48 261.62) (xy 30.48 264.16)
 		)
 		(stroke
 			(width 0)
@@ -8131,6 +8153,17 @@
 			(type default)
 		)
 		(uuid "73fe0733-8b93-4109-9ac3-cbff1ada33d4")
+	)
+	(polyline
+		(pts
+			(xy 396.875 282.575) (xy 396.875 283.21)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "745f9881-00ee-4124-886b-2574806dc14f")
 	)
 	(wire
 		(pts
@@ -8617,7 +8650,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 251.46) (xy 43.18 256.54)
+			(xy 40.64 251.46) (xy 40.64 256.54)
 		)
 		(stroke
 			(width 0)
@@ -8647,7 +8680,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 246.38) (xy 50.8 246.38)
+			(xy 30.48 246.38) (xy 50.8 246.38)
 		)
 		(stroke
 			(width 0)
@@ -8748,16 +8781,6 @@
 		)
 		(uuid "97ff4dba-74b5-4703-b31b-a69f0d0d6aed")
 	)
-	(wire
-		(pts
-			(xy 43.18 264.16) (xy 50.8 264.16)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "9876184f-7bc6-4337-9e8c-8ac350590c3a")
-	)
 	(polyline
 		(pts
 			(xy 129.54 68.58) (xy 129.54 83.82)
@@ -8788,6 +8811,17 @@
 		)
 		(uuid "997595fb-6ca7-4256-984a-89738c9c319d")
 	)
+	(polyline
+		(pts
+			(xy 397.51 283.21) (xy 396.875 283.21)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "9b167250-045a-4b51-98bf-eaece3a25518")
+	)
 	(wire
 		(pts
 			(xy 109.22 248.92) (xy 109.22 256.54)
@@ -8810,7 +8844,7 @@
 	)
 	(wire
 		(pts
-			(xy 33.02 256.54) (xy 33.02 246.38)
+			(xy 30.48 256.54) (xy 30.48 246.38)
 		)
 		(stroke
 			(width 0)
@@ -8907,6 +8941,17 @@
 			(type default)
 		)
 		(uuid "a83e6f0c-dd97-48c3-9706-0ee0c6840578")
+	)
+	(polyline
+		(pts
+			(xy 398.145 283.845) (xy 398.78 283.845)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "ad2dafe4-7b6c-44c8-978d-8c0a864feac1")
 	)
 	(polyline
 		(pts
@@ -9417,7 +9462,7 @@
 	)
 	(wire
 		(pts
-			(xy 43.18 251.46) (xy 50.8 251.46)
+			(xy 40.64 251.46) (xy 50.8 251.46)
 		)
 		(stroke
 			(width 0)
@@ -9495,6 +9540,17 @@
 			(color 132 0 0 1)
 		)
 		(uuid "d1872556-d608-47c7-b2da-bcddbbe48cc9")
+	)
+	(polyline
+		(pts
+			(xy 399.415 283.21) (xy 398.145 283.21)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "d1a01da0-8229-419b-9256-829fd3ffee4b")
 	)
 	(polyline
 		(pts
@@ -9851,6 +9907,16 @@
 	)
 	(wire
 		(pts
+			(xy 40.64 264.16) (xy 50.8 264.16)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ed4e7342-61f3-4533-a109-e3e060e4c9c4")
+	)
+	(wire
+		(pts
 			(xy 312.42 48.26) (xy 317.5 48.26)
 		)
 		(stroke
@@ -9908,6 +9974,17 @@
 			(type default)
 		)
 		(uuid "f70dfa76-322a-46de-87f0-681c36b22947")
+	)
+	(polyline
+		(pts
+			(xy 397.51 282.575) (xy 397.51 284.48)
+		)
+		(stroke
+			(width 0.254)
+			(type solid)
+			(color 0 0 255 0.9)
+		)
+		(uuid "f78912dd-5829-499a-b661-e407bc985d2e")
 	)
 	(wire
 		(pts
@@ -10275,7 +10352,7 @@
 		)
 	)
 	(label "MOS_S"
-		(at 43.18 251.46 0)
+		(at 40.64 251.46 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10308,7 +10385,7 @@
 		(uuid "8392064b-3cbf-4e80-8465-de8f8d8acb04")
 	)
 	(label "OPT_C"
-		(at 43.18 248.92 0)
+		(at 40.64 248.92 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10956,7 +11033,7 @@
 	(netclass_flag ""
 		(length 2.54)
 		(shape dot)
-		(at 33.02 246.38 0)
+		(at 30.48 246.38 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -10965,7 +11042,7 @@
 		)
 		(uuid "c1c5efe8-923c-4463-99c9-59b9b5972dca")
 		(property "Netclass" "24V"
-			(at 31.115 242.57 0)
+			(at 28.575 242.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11633,7 +11710,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC1206JR-074R7L"
 			(at 60.96 167.64 0)
 			(effects
 				(font
@@ -11642,7 +11719,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RC1206JR-074R7L"
+			(at 60.96 167.64 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "RC1206JR-074R7L"
 			(at 60.96 167.64 0)
 			(effects
 				(font
@@ -11770,7 +11856,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0603W106M250XD"
 			(at 81.28 259.08 0)
 			(effects
 				(font
@@ -11779,7 +11865,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0603W106M250XD"
 			(at 81.28 259.08 0)
 			(effects
 				(font
@@ -11788,7 +11874,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "V"
+		(property "VOLTAGE" "25V"
 			(at 83.312 261.112 0)
 			(do_not_autoplace yes)
 			(effects
@@ -11796,6 +11882,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "PN" "0603W106M250XD"
+			(at 81.28 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -12395,7 +12490,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0603W106M250XD"
 			(at 71.12 259.08 0)
 			(effects
 				(font
@@ -12404,7 +12499,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0603W106M250XD"
 			(at 71.12 259.08 0)
 			(effects
 				(font
@@ -12413,7 +12508,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "V"
+		(property "VOLTAGE" "25V"
 			(at 73.152 261.112 0)
 			(do_not_autoplace yes)
 			(effects
@@ -12423,7 +12518,7 @@
 				(justify left)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "0603W106M250XD"
 			(at 71.12 259.08 0)
 			(effects
 				(font
@@ -12708,7 +12803,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0603B563K500CT"
 			(at 190.5 213.36 0)
 			(effects
 				(font
@@ -12717,7 +12812,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0603B563K500CT"
 			(at 190.5 213.36 0)
 			(effects
 				(font
@@ -13074,7 +13169,7 @@
 	)
 	(symbol
 		(lib_id "ps:C_Small")
-		(at 33.02 259.08 0)
+		(at 30.48 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -13082,7 +13177,7 @@
 		(dnp no)
 		(uuid "460f4ce5-714c-4363-8e5c-18bf531a8cb1")
 		(property "Reference" "C1"
-			(at 34.925 257.175 0)
+			(at 32.385 257.175 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -13092,7 +13187,7 @@
 			)
 		)
 		(property "Value" "18nF"
-			(at 34.925 259.08 0)
+			(at 32.385 259.08 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -13102,7 +13197,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 33.02 259.08 0)
+			(at 30.48 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13111,7 +13206,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 33.02 259.08 0)
+			(at 30.48 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13120,7 +13215,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 33.02 259.08 0)
+			(at 30.48 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13128,8 +13223,8 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "V"
-			(at 35.052 261.112 0)
+		(property "VOLTAGE" "35V"
+			(at 32.512 261.112 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -13963,7 +14058,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERA-3ARW393V"
+		(property "Datasheet" "RC0603JR-0739KL"
 			(at 109.22 259.08 0)
 			(effects
 				(font
@@ -13972,7 +14067,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "ERA-3ARW393V"
+		(property "Description" "RC0603JR-0739KL"
 			(at 109.22 259.08 0)
 			(effects
 				(font
@@ -13981,7 +14076,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "ERA-3ARW393V"
+		(property "PN" "RC0603JR-0739KL"
 			(at 109.22 259.08 0)
 			(effects
 				(font
@@ -14118,7 +14213,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0603W106M250XD"
 			(at 90.17 259.08 0)
 			(effects
 				(font
@@ -14127,7 +14222,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0603W106M250XD"
 			(at 90.17 259.08 0)
 			(effects
 				(font
@@ -14136,7 +14231,7 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "V"
+		(property "VOLTAGE" "25V"
 			(at 92.202 261.112 0)
 			(do_not_autoplace yes)
 			(effects
@@ -14144,6 +14239,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "PN" "0603W106M250XD"
+			(at 90.17 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"
@@ -14346,7 +14450,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "0603N680J500CT"
 			(at 185.42 203.2 0)
 			(effects
 				(font
@@ -14355,7 +14459,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "0603N680J500CT"
 			(at 185.42 203.2 0)
 			(effects
 				(font
@@ -14400,7 +14504,7 @@
 	)
 	(symbol
 		(lib_id "ps:C_Small")
-		(at 43.18 259.08 0)
+		(at 40.64 259.08 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -14408,7 +14512,7 @@
 		(dnp no)
 		(uuid "6abb3b5b-c1b5-4e38-9ccb-cd06bdbc3b96")
 		(property "Reference" "C2"
-			(at 45.085 257.175 0)
+			(at 42.545 257.175 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -14418,7 +14522,7 @@
 			)
 		)
 		(property "Value" "100pF"
-			(at 45.085 259.08 0)
+			(at 42.545 259.08 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -14428,7 +14532,7 @@
 			)
 		)
 		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
-			(at 43.18 259.08 0)
+			(at 40.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14437,7 +14541,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 43.18 259.08 0)
+			(at 40.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14446,7 +14550,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 43.18 259.08 0)
+			(at 40.64 259.08 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14454,8 +14558,8 @@
 				(hide yes)
 			)
 		)
-		(property "VOLTAGE" "V"
-			(at 45.212 261.112 0)
+		(property "VOLTAGE" "35V"
+			(at 42.672 261.112 0)
 			(do_not_autoplace yes)
 			(effects
 				(font
@@ -14754,7 +14858,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "ERJ-PB3B9760V"
 			(at 200.66 200.66 0)
 			(effects
 				(font
@@ -14763,7 +14867,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ERJ-PB3B9760V"
 			(at 200.66 200.66 0)
 			(effects
 				(font
@@ -15331,7 +15435,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" ""
+		(property "Datasheet" "ERJ-PB3B3602V"
 			(at 200.66 193.04 0)
 			(effects
 				(font
@@ -15340,7 +15444,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ERJ-PB3B3602V"
 			(at 200.66 193.04 0)
 			(effects
 				(font
@@ -15410,7 +15514,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "ERJ-PB3B4301V"
 			(at 200.66 223.52 0)
 			(effects
 				(font
@@ -15419,7 +15523,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "ERJ-PB3B4301V"
 			(at 200.66 223.52 0)
 			(effects
 				(font
@@ -15711,7 +15815,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "SIHA6N80AE-GE3"
+		(property "Value" "SPP11N80C3XKSA1"
 			(at 82.042 156.718 90)
 			(effects
 				(font
@@ -15720,7 +15824,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "PS:SIHA6N80AE-GE3"
+		(property "Footprint" "SPP11N80C3XKSA1"
 			(at 81.28 162.56 0)
 			(effects
 				(font
@@ -15729,7 +15833,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "SIHA6N80AE-GE3"
+		(property "Datasheet" "SPP11N80C3XKSA1"
 			(at 76.2 165.1 0)
 			(effects
 				(font
@@ -15738,7 +15842,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "SPP11N80C3XKSA1"
 			(at 76.2 165.1 0)
 			(effects
 				(font
@@ -15747,7 +15851,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" ""
+		(property "PN" "SPP11N80C3XKSA1"
 			(at 76.2 165.1 0)
 			(effects
 				(font
@@ -15810,7 +15914,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "RC1206JR-074R7L"
 			(at 60.96 162.56 0)
 			(effects
 				(font
@@ -15819,7 +15923,16 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "RC1206JR-074R7L"
+			(at 60.96 162.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "PN" "RC1206JR-074R7L"
 			(at 60.96 162.56 0)
 			(effects
 				(font
@@ -16059,7 +16172,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "~"
+		(property "Datasheet" "STPS30SM100ST"
 			(at 369.57 38.1 0)
 			(effects
 				(font
@@ -16068,7 +16181,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "STPS30SM100ST"
 			(at 372.11 35.56 0)
 			(effects
 				(font
@@ -16224,6 +16337,15 @@
 				(hide yes)
 			)
 		)
+		(property "PN" "RC0603FR-071K33L"
+			(at 53.34 172.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "1a408be2-2e10-41e1-a037-94f830b50558")
 		)
@@ -16354,7 +16476,7 @@
 				(hide yes)
 			)
 		)
-		(property "Datasheet" "ERA-3AEB204V"
+		(property "Datasheet" "RC0603JR-07200KL"
 			(at 109.22 238.76 0)
 			(effects
 				(font
@@ -16363,7 +16485,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "ERA-3AEB204V"
+		(property "Description" "RC0603JR-07200KL"
 			(at 109.22 238.76 0)
 			(effects
 				(font
@@ -16372,7 +16494,7 @@
 				(hide yes)
 			)
 		)
-		(property "PN" "ERA-3AEB204V"
+		(property "PN" "RC0603JR-07200KL"
 			(at 109.22 238.76 0)
 			(effects
 				(font
@@ -17845,7 +17967,7 @@
 				(hide yes)
 			)
 		)
-		(property "Description" ""
+		(property "Description" "EEU-FC1V680"
 			(at 99.06 259.08 0)
 			(effects
 				(font
@@ -17862,6 +17984,15 @@
 					(size 1.27 1.27)
 				)
 				(justify left)
+			)
+		)
+		(property "PN" "EEU-FC1V680"
+			(at 99.06 259.08 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
 			)
 		)
 		(pin "1"

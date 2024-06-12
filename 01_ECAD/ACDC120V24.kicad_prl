@@ -132,22 +132,10 @@
         "window": {
           "display": 2,
           "maximized": true,
-          "pos_x": -2568,
+          "pos_x": -4488,
           "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1416
-        }
-      },
-      {
-        "name": "ACDC120V24.kicad_pcb",
-        "open": false,
-        "window": {
-          "display": 2,
-          "maximized": true,
-          "pos_x": -2568,
-          "pos_y": -8,
-          "size_x": 2576,
-          "size_y": 1416
+          "size_x": 1936,
+          "size_y": 1176
         }
       }
     ]
